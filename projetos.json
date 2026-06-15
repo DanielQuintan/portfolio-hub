@@ -1,0 +1,53 @@
+{
+  "usuario": {
+    "nome": "Daniel Nery Quintana",
+    "cargo": "Estudante de Engenharia de Software",
+    "localizacao": "Brasília - DF",
+    "bio": "Estudante de Engenharia de Software no CEUB buscando oportunidade para desenvolver soluções reais e evoluir como desenvolvedor. Conhecimentos em Python, JavaScript, HTML, CSS e ferramentas de produtividade."
+  },
+  "projetos": [
+    {
+      "id": "proj-google-workspace-001",
+      "titulo": "Apresentação e Portfólio de Experiência Digital",
+      "descricao": "Documento visual estruturado com o ecossistema do Google Workspace, detalhando competências em design de experiência, histórico de carreira e amostras visuais de produtos digitais.",
+      "origem": "google_workspace",
+      "url_projeto": "https://docs.google.com/document/d/1cElAdaxZRY6cHH4kG1_wAYhHslwklTBpFyVVaP58iZY/edit?usp=sharing",
+      "tags": ["Google Workspace", "Design de Experiência", "Apresentação"],
+      "status": "concluido",
+      "data_atualizacao": "2026-06-14",
+      "metadados_especificos": {
+        "tipo_documento": "presentation",
+        "permissao_acesso": "publico_com_link"
+      }
+    },
+    {
+      "id": "proj-google-workspace-002",
+      "titulo": "Currículo Profissional Integrado",
+      "descricao": "Currículo estruturado detalhando formação acadêmica em Engenharia de Software, idiomas (Inglês Avançado) e certificações complementares do Senac e Santander.",
+      "origem": "google_workspace",
+      "url_projeto": "https://docs.google.com/document/d/15dnm29z_Ux2rtmuc7Mo3t53xmA3SG3WXfX--zbgkFV4/edit?usp=sharing",
+      "tags": ["Google Docs", "Currículo", "Gestão de Carreira"],
+      "status": "concluido",
+      "data_atualizacao": "2026-06-14",
+      "metadados_especificos": {
+        "tipo_documento": "document",
+        "permissao_acesso": "publico_com_link"
+      }
+    },
+    {
+      "id": "proj-github-portfoliohub",
+      "titulo": "PortfolioHub",
+      "descricao": "Repositório centralizador do portfólio digital, integrando o ecossistema de projetos de código no GitHub com as ferramentas e documentações do Google Workspace.",
+      "origem": "github",
+      "url_projeto": "https://github.com/danielquintan/PortfolioHub",
+      "tags": ["Git", "GitHub Pages", "JSON", "HTML/CSS"],
+      "status": "em_producao",
+      "data_atualizacao": "2026-06-14",
+      "metadados_especificos": {
+        "linguagem_principal": "JSON",
+        "branch_padrao": "main",
+        "url_github_pages": "https://danielquintan.github.io/PortfolioHub/"
+      }
+    }
+  ]
+}
